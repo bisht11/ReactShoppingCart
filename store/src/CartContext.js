@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import { createContext, useState } from "react";
 import { getProductData } from "./productsStore";
 
